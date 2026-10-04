@@ -1,0 +1,10 @@
+{
+  "name": "college-knowledge-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "College Knowledge AI - RAG and Multi-Step Agent Study Assistant",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev"
+  }
+}
